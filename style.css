@@ -1,0 +1,11 @@
+div{
+    padding: 0; 
+    background-color: black; 
+
+} 
+ul li{
+    display: inline-block; 
+    font size: 35px; 
+    float: :right; 
+    
+}
